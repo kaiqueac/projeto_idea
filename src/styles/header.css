@@ -16,7 +16,7 @@ header {
 
 #nav-logo {
     font-size: 24px;
-    color: #387CA6;
+    color: #FE522E;
 }
 
 #nav-list{
@@ -33,7 +33,7 @@ header {
 
 .nav-item.active a {
     color: #000000;
-    border-bottom: 3px solid #387CA6;
+    border-bottom: 3px solid #FE522E;
 }
 
 #mobile-btn{

@@ -18,7 +18,7 @@
 
 #cta .title span {
     font-size: 3rem;
-    color: #387CA6;
+    color: #FE522E;
 }
 
 #cta .description {
@@ -40,7 +40,7 @@
 }
 
 .shape {
-    background-color: #387CA6;
+    background-color: #FE522E;
     width: 50%;
     height: 100%;
     position: absolute;
@@ -72,7 +72,7 @@
     
     #cta .title span {
         font-size: 2.3rem;
-        color: #387CA6;
+        color: #FE522E;
     }
     
     #cta .description {
